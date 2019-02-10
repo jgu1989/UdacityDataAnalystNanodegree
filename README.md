@@ -5,7 +5,7 @@ This nanodegree contains hands-on curriculum and completion of 5 in-depth capsto
 ## Capstone projects
 
 - Explore weather trends
-- Investigate a dataset
+- Investigate a TMDB dataset
 - Perform A/B test and analyze results
 - Wrangle and analyze WeRateDogs Twitter archive
 - Perform exploratory data visualization
