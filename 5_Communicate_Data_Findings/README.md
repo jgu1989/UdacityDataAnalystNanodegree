@@ -8,7 +8,10 @@ Around 510,000 students in [65 economies](https://www.google.com/url?q=http://ww
 
 ## Summary of Findings
 
-
-
-## Key Insights for Presentation
+- Both too few and too many computers at school have negative impact on students' math scores, and similar trend can be observed when the data is resolved by region.
+- Gender does not make a big difference in students' math scores.
+- Students with the best performance in math are from Shanghai (China), Singapore and Hong Kong (China).
+- Generally, students perform better in math if they have more positive attitude towards study.
+- The child's performance in math is better when parents both have higher qualifications, but there is an anomaly when parents have the highest qualifications.
+- The child performs the best when both father and mother have full-time job, and the worst when neither is working.
 
