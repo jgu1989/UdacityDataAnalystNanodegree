@@ -1,9 +1,12 @@
-# Exploring Weather Trends - Project Instructions
+# Exploring Weather Trends
 
-## Summary
 In this project, I analyzed local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
-## Steps
+## Dataset
+
+Temperatures of cities all over the world starting from 1850s.
+
+## Project Details
 
 - Extract the data from the database. 
 - Create a line chart that compares my city’s temperatures with the global temperatures. Plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable.
