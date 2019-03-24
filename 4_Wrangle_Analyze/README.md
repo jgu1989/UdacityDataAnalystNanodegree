@@ -37,7 +37,7 @@ Clean each of the issues you documented while assessing. Perform this cleaning i
 
 Store the clean DataFrame(s) in a CSV file with the main one named `twitter_archive_master.csv`.
 
-Analyze and visualize your wrangled data in the `wrangle_act.ipynb` Jupyter Notebook.
+Analyze and visualize the wrangled data. All the above process is conducted in the `wrangle_act.ipynb` Jupyter Notebook.
 
 ### Reporting for this Project
 
