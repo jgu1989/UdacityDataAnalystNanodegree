@@ -19,3 +19,11 @@ Around 510,000 students in [65 economies](https://www.google.com/url?q=http://ww
 
 The full dataset 2.75 GB, and loading it is time consuming. Run pisa.ipynb first so that only the columns of interest will be saved to small csv files. slides.ipynb will then load only these small csv files instead of the full dataset.
 
+To generate slides.slides.html, use the command
+
+```shell
+jupyter nbconvert slides.ipynb --to slides --post serve --template output_toggle
+```
+
+
+
